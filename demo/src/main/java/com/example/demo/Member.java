@@ -4,4 +4,5 @@ public class Member {
 
 	Long id;
 	String Name;
+	
 }
